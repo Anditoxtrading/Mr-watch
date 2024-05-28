@@ -2,9 +2,9 @@ import telebot
 import re
 
 # Reemplaza "BOT_TOKEN" con tu token de acceso
-bot_token = "7063485069:AAG9M4xLIuNdplXOUn6SGsxjMyzT66jAAeA"
+bot_token = ""
 bot = telebot.TeleBot(bot_token)
-chat_id = -1002142100260
+chat_id = 
 
 # Ruta del archivo donde se guardarán los mensajes
 archivo_mensajes = "mensajes_telegram.txt"
