@@ -4,9 +4,9 @@ from pybit.unified_trading import HTTP
 import telebot
 
 # Reemplaza "BOT_TOKEN" con tu token de acceso
-bot_token = "7063485069:AAG9M4xLIuNdplXOUn6SGsxjMyzT66jAAeA"
+bot_token = ""
 bot = telebot.TeleBot(bot_token)
-chat_id = -1002142100260
+chat_id = 
 # Diccionario para mantener un registro de qué alertas se han enviado
 alertas_enviadas = {}
 
